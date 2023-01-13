@@ -21,7 +21,7 @@ function Footer() {
             <p style={{color:"white",cursor:"pointer"}}>Bar and Night Club</p>
             <p style={{color:"white",marginTop:"130px"}}>© 2022 Bambulabs Inc. All rights reserved</p>
             </div>
-        <div style={{marginTop:"20px"}}>
+        <div style={{marginTop:"20px",marginRight:"6%"}}>
         <p style={{color:"#FC8181",fontSize:"20px"}}>Partners</p>
             <p style={{color:"white",marginTop:"-8px"}}>Become a Reseller</p>
             <p style={{color:"white",cursor:"pointer"}}>Integrations</p>
@@ -31,7 +31,7 @@ function Footer() {
             <p style={{color:"white",cursor:"pointer"}}>Privacy & Terms</p>
             <p style={{color:"white",cursor:"pointer"}}>Blog</p>
         </div>
-        <div style={{marginRight:"7",marginTop:"20px"}}>
+        <div style={{marginRight:"7",marginTop:"20px",marginRight:"7%"}}>
         <p style={{color:"#FC8181",fontSize:"20px"}}>Contact Us</p>
         <p style={{color:"white"}}>9440 Santa Monica Blvd. Suite 301 Beverly Hills,</p>
         <p style={{color:"white"}}>CA 90210</p>
